@@ -1,2 +1,2 @@
 # simpleHashTable
-simple hash table in javascript (not tested)
+simple scalable hash table in javascript
